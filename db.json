@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Pied butcher bird","category":"Khaki"},
+{"id":2,"name":"Bird, red-billed tropic","category":"Blue"},
+{"id":3,"name":"Dik, kirk's dik","category":"Crimson"},
+{"id":4,"name":"African lynx","category":"Turquoise"},
+{"id":5,"name":"Bird, secretary","category":"Goldenrod"},
+{"id":6,"name":"Stilt, black-winged","category":"Orange"},
+{"id":7,"name":"Barrows goldeneye","category":"Turquoise"},
+{"id":8,"name":"Red-tailed wambenger","category":"Khaki"},
+{"id":9,"name":"American badger","category":"Aquamarine"},
+{"id":10,"name":"Flycatcher, tyrant","category":"Red"},
+{"id":11,"name":"Fox, cape","category":"Orange"},
+{"id":12,"name":"Otter, cape clawless","category":"Yellow"},
+{"id":13,"name":"Cat, tiger","category":"Violet"},
+{"id":14,"name":"Langur, common","category":"Maroon"},
+{"id":15,"name":"Leadbeateri's ground hornbill","category":"Yellow"},
+{"id":16,"name":"Lily trotter","category":"Mauv"},
+{"id":17,"name":"White-mantled colobus","category":"Blue"},
+{"id":18,"name":"Grizzly bear","category":"Pink"},
+{"id":19,"name":"Stone sheep","category":"Fuscia"},
+{"id":20,"name":"Mourning collared dove","category":"Goldenrod"}
+]
+}
